@@ -39,6 +39,7 @@ const getList = async (count) => {
 }
 
 const func = function () {
+    list = [];
     getCount()
         .then((count) => {
             getList(count)
