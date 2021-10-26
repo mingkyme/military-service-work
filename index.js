@@ -51,5 +51,4 @@ const func = function () {
                 });
         })
 }
-func();
 setInterval(func, 1000 * 60 * 60); // 1시간마다 실행
