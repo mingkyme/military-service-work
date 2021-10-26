@@ -116,3 +116,4 @@ dist
 .pnp.*
 key.json
 .DS_Store
+password/*
